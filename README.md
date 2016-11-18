@@ -1,3 +1,14 @@
+# DEPRECATION WARNING
+
+This functionality is better provided by:
+https://github.com/benmosher/eslint-plugin-import
+
+I'd suggest using that module instad.
+
+
+
+-----------------
+
 # eslint-plugin-modules
 ESLint rules for JavaScript modules.
 
